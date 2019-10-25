@@ -1,2 +1,2 @@
 # ML
-Alll about my ML codes
+All about my ML codes
